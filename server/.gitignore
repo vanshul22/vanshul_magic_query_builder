@@ -1,0 +1,17 @@
+# Package folder
+node_modules/
+
+# Logs files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS file
+.DS_Store
+
+# Environment variables
+.env
+/*.env
+Magic_Query_Builder_Postman.json
